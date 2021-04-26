@@ -107,4 +107,15 @@ U 607BC0FB
 F0 "Connectors" 50
 F1 "Connectors.sch" 50
 $EndSheet
+$Comp
+L MCU_Microchip_ATmega:ATmega328P-AU U?
+U 1 1 6086469A
+P 1925 4175
+F 0 "U?" H 1925 2586 50  0000 C CNN
+F 1 "ATmega328P-AU" H 1925 2495 50  0000 C CNN
+F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 1925 4175 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf" H 1925 4175 50  0001 C CNN
+	1    1925 4175
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
