@@ -129,4 +129,26 @@ F 3 "https://datasheets.maximintegrated.com/en/ds/DS1337-DS1337C.pdf" H 3975 585
 	1    3975 5850
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Crystal Y?
+U 1 1 60E3DE79
+P 875 2525
+F 0 "Y?" H 875 2793 50  0000 C CNN
+F 1 "Crystal" H 875 2702 50  0000 C CNN
+F 2 "" H 875 2525 50  0001 C CNN
+F 3 "~" H 875 2525 50  0001 C CNN
+	1    875  2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Crystal Y?
+U 1 1 60E3EBBC
+P 875 3125
+F 0 "Y?" H 875 3393 50  0000 C CNN
+F 1 "Crystal" H 875 3302 50  0000 C CNN
+F 2 "" H 875 3125 50  0001 C CNN
+F 3 "~" H 875 3125 50  0001 C CNN
+	1    875  3125
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
